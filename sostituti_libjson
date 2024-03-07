@@ -1,0 +1,158 @@
+Sorting...
+Full Text Search...
+libjson-any-perl/stable 1.39-3 all
+  wrapper class for the various JSON classes
+
+libjson-c-dev/stable 0.16-2 armhf
+  JSON manipulation library - development files
+
+libjson-c-doc/stable 0.16-2 all
+  JSON manipulation library - documentation files
+
+libjson-c5/stable,now 0.16-2 armhf [installed]
+  JSON manipulation library - shared library
+
+libjson-glib-1.0-0/stable,now 1.6.6-1 armhf [installed,automatic]
+  GLib JSON manipulation library
+
+libjson-glib-1.0-common/stable,now 1.6.6-1 all [installed,automatic]
+  GLib JSON manipulation library (common files)
+
+libjson-glib-dev/stable 1.6.6-1 armhf
+  GLib JSON manipulation library (development files)
+
+libjson-glib-doc/stable 1.6.6-1 all
+  GLib JSON manipulation library (documentation)
+
+libjson-hyper-perl/stable 0.011-3 all
+  extract links from JSON via a schema
+
+libjson-java/stable 2.4-3.1 all
+  library for transforming Java objects and XML to JSON and back again
+
+libjson-maybexs-perl/stable 1.004004-1 all
+  interface to the best available JSON module
+
+libjson-multivalueordered-perl/stable 0.006-2 all
+  module to handle JSON like {"a":1, "a":2}
+
+libjson-parse-perl/stable 0.62-1+b1 armhf
+  module to read JSON into a Perl variable
+
+libjson-path-perl/stable 1.0.3-1 all
+  search nested hashref/arrayref structures using JSONPath
+
+libjson-perl/stable 4.10000-1 all
+  module for manipulating JSON-formatted data
+
+libjson-pointer-perl/stable 0.07-2 all
+  Perl implementation of JSON Pointer (RFC6901)
+
+libjson-pp-perl/stable 4.16000-1 all
+  module for manipulating JSON-formatted data (Pure Perl)
+
+libjson-rpc-common-perl/stable 0.11-2 all
+  transport agnostic JSON RPC helper objects
+
+libjson-rpc-perl/stable 1.06-3 all
+  Perl implementation of JSON-RPC 2.0 and 1.1 protocols
+
+libjson-simple-doc/stable 2.3.0-1 all
+  documentation for libjson-simple-java
+
+libjson-simple-java/stable 2.3.0-1 all
+  Simple, lightweight and efficient JSON toolkit for Java
+
+libjson-smart-java/stable 2.2-2 all
+  JSON Small and Fast Parser
+
+libjson-types-perl/stable 0.05-3 all
+  variable type utility for JSON encoding
+
+libjson-validator-perl/stable 5.14+dfsg-1 all
+  module to validate data against a JSON schema
+
+libjson-webtoken-perl/stable 0.10-4 all
+  JSON Web Token (JWT) implementation
+
+libjson-xs-perl/stable 4.030-2+b1 armhf
+  module for manipulating JSON-formatted data (C/XS-accelerated)
+
+libjson4s-java/stable 3.5.1+really3.2.10-1 all
+  Single AST to be used by other scala json libraries
+
+libjsonb-api-java/stable 1.0-2 all
+  Java API for JSON Binding (JSON-B)
+
+libjsoncpp-dev/stable 1.9.5-4 armhf
+  library for reading and writing JSON for C++ (devel files)
+
+libjsoncpp-doc/stable 1.9.5-4 all
+  API documentation for libjsoncpp-dev
+
+libjsoncpp25/stable 1.9.5-4 armhf
+  library for reading and writing JSON for C++
+
+libjsonld-java/stable 0.13.4-1 all
+  Java implementation of JSON-LD 1.0 and JSON-LD-API 1.0 specifications
+
+libjsonld-perl/stable 0.005-1 all
+  Perl toolkit for interacting with JSON-LD data
+
+libjsonm-ocaml/stable 1.0.1-2.1+b2 armhf
+  Non-blocking streaming JSON codec for OCaml (plugins)
+
+libjsonm-ocaml-dev/stable 1.0.1-2.1+b2 armhf
+  Non-blocking streaming JSON codec for OCaml
+
+libjsonm-ocaml-doc/stable 1.0.1-2.1 all
+  Non-blocking streaming JSON codec for OCaml (documentation)
+
+libjsonnet-dev/stable 0.18.0+ds-3+b2 armhf
+  data templating language (devel)
+
+libjsonnet0/stable 0.18.0+ds-3+b2 armhf
+  data templating language (lib)
+
+libjsonp-java/stable 1.1.2-3 all
+  Java API for JSON Processing
+
+libjsonp2-java/stable 2.1.1-2 all
+  Jakarta JSON Processing
+
+libjsonparser-dev/stable 1.1.0-2 armhf
+  Very low footprint JSON parser written in portable ANSI C - development headers
+
+libjsonparser1.1/stable 1.1.0-2 armhf
+  Very low footprint JSON parser written in portable ANSI C
+
+libjsonpath-java/stable 2.0.0-5 all
+  Jayway JsonPath - XPath like expressions for JSON
+
+libjsonrpc-glib-1.0-1/stable 3.42.0-1 armhf
+  JSON-RPC library for GLib
+
+libjsonrpc-glib-1.0-dev/stable 3.42.0-1 armhf
+  JSON-RPC library for GLib - development files
+
+libjsonrpc-glib-doc/stable 3.42.0-1 all
+  JSON-RPC library for GLib - documentation
+
+libjsonrpccpp-client0/stable 0.7.0-2.1 armhf
+  library implementing json-rpc C++ clients
+
+libjsonrpccpp-common0/stable 0.7.0-2.1 armhf
+  common functionality for server and client library
+
+libjsonrpccpp-dev/stable 0.7.0-2.1 armhf
+  development files for JSON-RPC C++ framework
+
+libjsonrpccpp-server0/stable 0.7.0-2.1 armhf
+  library implementing json-rpc C++ servers
+
+libjsonrpccpp-stub0/stable 0.7.0-2.1 armhf
+  library for stub generation of libjsonrpccpp based applications
+
+libjsonrpccpp-tools/stable 0.7.0-2.1 armhf
+  stub generator for libjsonrpccpp based applications
+
